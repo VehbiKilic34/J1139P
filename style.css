@@ -1,0 +1,17 @@
+.gsfk {
+    width: 200px;
+    height: 250px;
+    }
+.fbfk {
+    width: 300px;
+    height: 320px;
+}
+
+
+    body {
+        background-image: url(/images/Futbol-Stadi-Duvar-Kagidi-resim-13790.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
